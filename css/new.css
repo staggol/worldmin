@@ -10,6 +10,16 @@ aa:hover,
     margin: 0 10px
 }
 
+
+@media (max-width: 968px) {
+
+    .newmenu {
+        margin: 0 10px 0 -15px !important;
+    }
+
+}
+
+
 .reset,
 reset li {
     list-style-type: none;
