@@ -172,7 +172,7 @@ aa:hover {
     position: absolute;
     left: 0;
     top: -110px;
-    background: url(../images/bg_9.png) no-repeat 0 0
+    background: url(../images/bg_9.png) no-repeat 0 0;
 }
 
 #footer-cont .btmrht {

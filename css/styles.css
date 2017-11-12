@@ -55,9 +55,9 @@ hr.hr {
 #wrapper {
     margin: 0 auto;
     text-align: left;
-    width: 966px;
+    width: 965px;
     display: block;
-    padding: 0;
+    padding: 0
 }
 
 #topbar {
@@ -164,13 +164,11 @@ hr.hr {
 }
 
 #footer-cont {
-    position: relative;
-    top: 1px;
     background: url(../images/bg_8.png) no-repeat 50% 0;
     transform: scale(1.001);
     float: left;
     height: 108px;
-    width: 967px;
+    width: 965px;
     padding-top: 22px
 }
 
@@ -184,7 +182,7 @@ hr.hr {
     font-size: 12px;
     color: #fff;
     font-weight: 700;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, .25)
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .25);
 }
 
 #copyright a {
