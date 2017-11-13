@@ -11,20 +11,23 @@ body {
     font-family: Tahoma, Geneva, sans-serif;
     font-size: 12px;
     background: url(../images/bg_1.png) repeat 0 0;
-    height: 100%
+    height: 100%;
 }
 
 .topbg {
-    background: url(../images/bg_2.png) repeat-x 0 0
+    background: url(../images/bg_2.png) repeat-x 0 0;
 }
 
 .topbg2 {
-    background: url(../images/bg_3.jpg) no-repeat 50% 0;
+    background: url(../images/bg_3.jpg) no-repeat 50% 0%;
+    position: absolute;
     transform: scale(1.001);
 }
 
+
+
 .btmbg {
-    background: url(../images/bg_6.png) repeat-x 0 100%
+    background: url(../images/bg_6.png) repeat-x 0 100%;
 }
 
 .btmbg2 {
