@@ -16,12 +16,11 @@ body {
 
 .topbg {
     background: url(../images/bg_2.png) repeat-x 0 0;
+    min-width: 1141px;
 }
 
 .topbg2 {
-    background: url(../images/bg_3.jpg) no-repeat 50% 0%;
-    position: absolute;
-    transform: scale(1.001);
+    background: url(../images/bg_3.jpg) center top no-repeat;
 }
 
 
