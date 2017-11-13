@@ -17,7 +17,6 @@ body {
 
 /* */
 
-
 .topbg {
     background: url(../images/bg_2.png) repeat-x 0 0;
     min-width: 1141px;
@@ -25,6 +24,7 @@ body {
 
 .topbg2 {
     background: url(../images/bg_3.jpg) center top no-repeat;
+    
 }
 
 
